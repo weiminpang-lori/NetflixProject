@@ -8,4 +8,5 @@
 1)对Netflix的电影/电视节目进行探索性数据分析（EDA），了解当下电影/电视节目市场。
 2)搭建一个电影推荐系统，模拟推荐用户喜欢的相似电影，为Netflix之后的推荐方向提供优化策略。
 
-ps:可视化报告显示文件：NetflixDataProject.ipynb
+Note1:可视化报告显示文件：NetflixDataProject.ipynb
+Note2:由于github无法显示交互式可视化图，故保存可视化图为png格式，导入NetflixDataProject.ipynb文件显示
