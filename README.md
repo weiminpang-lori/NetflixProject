@@ -9,4 +9,5 @@
 2)搭建一个电影推荐系统，模拟推荐用户喜欢的相似电影，为Netflix之后的推荐方向提供优化策略。
 
 # Netflix数据分析项目：[Netflix_Data_Project.ipynb](Netflix_Data_Project.ipynb)
+Note:打开若显示“Sorry, something went wrong. Reload?”，刷新几次浏览器即可
 Note:由于github无法显示交互式可视化图，故保存可视化图为png格式，导入NetflixDataProject.ipynb文件显示
